@@ -14,9 +14,7 @@ const StatsSection = () => {
             key={stat.title}
             className="bg-white rounded-2xl p-6 shadow-md text-center"
           >
-            <h2 className="text-4xl font-bold text-blue-600">
-              {stat.number}
-            </h2>
+            <h2 className="text-4xl font-bold text-blue-600">{stat.number}</h2>
             <p className="mt-2 text-slate-600">{stat.title}</p>
           </div>
         ))}

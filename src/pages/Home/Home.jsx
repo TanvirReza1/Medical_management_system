@@ -2,6 +2,7 @@ import Footer from "../../Components/Footer/Footer";
 import Navbar from "../../Components/Navbar/Navbar";
 import Services from "../../Shared/Services";
 import StatsSection from "../../Shared/StatsSection";
+import TopDoctors from "../../Shared/TopDoctors";
 
 const Home = () => {
   return (
@@ -79,6 +80,7 @@ const Home = () => {
       </section>
       <StatsSection></StatsSection>
       <Services> </Services>
+      <TopDoctors></TopDoctors>
       <Footer></Footer>
     </div>
   );

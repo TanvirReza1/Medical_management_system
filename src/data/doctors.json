@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Ahmed",
+    "specialty": "Cardiologist",
+    "experience": "10+ Years"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Hasan Mahmud",
+    "specialty": "Neurologist",
+    "experience": "12+ Years"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Maria Khan",
+    "specialty": "Dermatologist",
+    "experience": "8+ Years"
+  }
+]
